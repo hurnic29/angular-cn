@@ -4,7 +4,7 @@
 
 Angular CLI creates all new workspaces and projects with **strict mode** enabled.
 
-Angular CLI 创建所有新工作区和项目时会弃用**严格模式**。
+Angular CLI 创建所有新工作区和项目时会启用**严格模式**。
 
 Strict mode improves maintainability and helps you catch bugs ahead of time.
 Additionally, strict mode applications are easier to statically analyze and can help the `ng update` command refactor code more safely and precisely when you are updating to future versions of Angular.
